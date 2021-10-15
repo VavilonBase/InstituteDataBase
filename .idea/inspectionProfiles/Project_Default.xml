@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="institute.main_app.templatetags.main_app_tags.register" />
+          <option value="institute.main_app.models.Directions.objects" />
+          <option value="str.get_header" />
+          <option value="institute.main_app.models.Documents.*" />
+          <option value="institute.main_app.models.Countries.objects" />
+          <option value="institute.main_app.models.Marks.objects" />
+          <option value="institute.main_app.models.Disciplines.objects" />
+          <option value="institute.mainapp.models.Documents.objects" />
+          <option value="institute.mainapp.models.Groups.objects" />
+          <option value="institute.mainapp.models.DisciplinesGroup.objects" />
+          <option value="institute.mainapp.models.Disciplines.objects" />
+          <option value="institute.mainapp.models.Directions.objects" />
+          <option value="institute.mainapp.models.Marks.objects" />
+          <option value="institute.mainapp.models.Countries.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

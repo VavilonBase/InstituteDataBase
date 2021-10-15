@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7429a366-d258-432c-b385-1702dfc890ad" name="Default Changelist" comment="Create Forms for group and student">
+      <change afterPath="$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Students/FormComponents/TableFormSelect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Groups/EditGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Groups/EditGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Students/EditStudent.js" beforeDir="false" afterPath="$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Students/EditStudent.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/InstituteDataBase/mainapp-ui" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Marks/ListMarks.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Marks/AddMark.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Marks/EditMark.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/App.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1xBhuJ7V8FlqL5RUBzmupt37DWQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InstituteDataBase/mainapp-ui/src/Components/Groups/FormComponents" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\InstituteDataBase\InstituteDataBase\mainapp-ui\src\Components\Groups\FormComponents" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstituteDataBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InstituteDataBase/mainapp/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InstituteDataBase/mainapp/api/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7429a366-d258-432c-b385-1702dfc890ad" name="Default Changelist" comment="" />
+      <created>1629834616792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629834616792</updated>
+      <workItem from="1629834619321" duration="7871000" />
+      <workItem from="1629923026870" duration="7438000" />
+      <workItem from="1630001214515" duration="11777000" />
+      <workItem from="1630094294146" duration="8339000" />
+      <workItem from="1630181091664" duration="7318000" />
+      <workItem from="1630265179681" duration="10405000" />
+      <workItem from="1630353799765" duration="7268000" />
+      <workItem from="1630438087223" duration="6593000" />
+      <workItem from="1630501308816" duration="586000" />
+      <workItem from="1630501951863" duration="1464000" />
+      <workItem from="1630526542811" duration="1280000" />
+      <workItem from="1630527910402" duration="6494000" />
+      <workItem from="1630613610937" duration="464000" />
+      <workItem from="1630614108365" duration="5392000" />
+      <workItem from="1630704049818" duration="3993000" />
+      <workItem from="1631310465475" duration="3186000" />
+      <workItem from="1631397747899" duration="2769000" />
+      <workItem from="1631604345927" duration="2932000" />
+      <workItem from="1631610870701" duration="2001000" />
+      <workItem from="1631653498509" duration="4264000" />
+      <workItem from="1631705640641" duration="2980000" />
+      <workItem from="1631708679101" duration="507000" />
+      <workItem from="1631782664823" duration="2739000" />
+      <workItem from="1632082966743" duration="5165000" />
+      <workItem from="1632088224517" duration="605000" />
+      <workItem from="1632172029727" duration="1708000" />
+      <workItem from="1632344003248" duration="2324000" />
+      <workItem from="1632429206154" duration="5648000" />
+      <workItem from="1632604523050" duration="3310000" />
+      <workItem from="1632768550827" duration="8506000" />
+      <workItem from="1632828536622" duration="4013000" />
+      <workItem from="1633235962468" duration="2057000" />
+    </task>
+    <task id="LOCAL-00001" summary="InstituteDataBase">
+      <created>1630615064226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630615064226</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Edited component AddDiscipline&#10;Create empty discipline component in state">
+      <created>1630615853765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630615853765</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create components for marks">
+      <created>1630615876759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630615876759</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Delete import bootstrap">
+      <created>1630616050896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630616050896</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create list components for directions, groups and students">
+      <created>1630619518461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630619518461</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create AddDirection and Addgroup functions">
+      <created>1631611235252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631611235252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create AddStudent component">
+      <created>1631711366875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631711366875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create EditDirection component">
+      <created>1631783807009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631783807010</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed AddStudent component">
+      <created>1631784232433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631784232433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create Edit Group">
+      <created>1632172133440</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632172133440</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create Forms for group and student">
+      <created>1632770138830</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632770138830</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InstituteDataBase" />
+    <MESSAGE value="Edited component AddDiscipline&#10;Create empty discipline component in state" />
+    <MESSAGE value="Create components for marks" />
+    <MESSAGE value="Delete import bootstrap" />
+    <MESSAGE value="Create list components for directions, groups and students" />
+    <MESSAGE value="Create AddDirection and Addgroup functions" />
+    <MESSAGE value="Create AddStudent component" />
+    <MESSAGE value="Create EditDirection component" />
+    <MESSAGE value="Changed AddStudent component" />
+    <MESSAGE value="Create Edit Group" />
+    <MESSAGE value="Create Forms for group and student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Forms for group and student" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
